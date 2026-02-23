@@ -9,8 +9,7 @@ I'm a data enthusiast with a strong foundation in data analysis, machine learnin
 ## 🔍 About Me
 
 -  PG Diploma in Data Science & Analytics  
--  MSc Physics  
--  Currently strengthening skills in Data science  
+-  MSc Physics   
 -  Interested in  solving real world problems 
 
 ---
