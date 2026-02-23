@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sreya Venugopal
 
-Data Science Enthusiast | Machine Learning | Python |  Data analysis Analytics  
+Data Science Enthusiast | Machine Learning | Python |  Data Analytics  
 
 I'm a data enthusiast with a strong foundation in data analysis, machine learning, and web-based analytics applications. I enjoy turning raw data into actionable insights and building intelligent systems that solve real-world problems.
 
