@@ -1,9 +1,40 @@
-- 👋 Hi, I’m @SreyaV96
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning data science and analytics
+# Hi there 👋 I'm Sreya Venugopal
 
+Data Science Enthusiast | Machine Learning | Python |  Data analysis Analytics  
 
-<!---
-SreyaV96/SreyaV96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data enthusiast with a strong foundation in data analysis, machine learning, and web-based analytics applications. I enjoy turning raw data into actionable insights and building intelligent systems that solve real-world problems.
+
+---
+
+## 🔍 About Me
+
+-  PG Diploma in Data Science & Analytics  
+-  MSc Physics  
+-  Currently strengthening skills in Data science  
+-  Interested in  solving real world problems 
+
+---
+
+## Technical Skills
+
+### Programming
+- Python  
+- SQL  
+
+### Data Analysis & Visualization
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Excel  
+- Power BI
+  
+
+### Machine Learning
+- Scikit-learn  
+
+### Web & Frameworks
+- Flask  
+- Streamlit  
+
+---
